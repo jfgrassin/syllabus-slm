@@ -1,0 +1,21 @@
+---
+title: "Syllabus SLM"
+subtitle: "Groupe C1 - 2017-2018"
+author: "Jean-François Grassin"
+date: "05/09/2017"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    theme: cosmo
+---
+#Aperçu du cours
+
+Enseignant : Jean-François Grassin
+Jean-francois.grassin@univ-lyon2.fr
+
+Lieu du cours : Mardi, 8 heures à 11 heures 45, salles E226 et E230
+
+#Description générale du cours
+Différentes tâches seront travaillées pendant le cours dont le but est d’améliorer la performance des étudiants en français, notamment dans les tâches académiques.  
