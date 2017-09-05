@@ -1,0 +1,15 @@
+name: "SyllabusC1"
+output_dir: "."
+navbar:
+  title: "Syllabus C1"
+  left:
+    - text: "Aperçu"
+      href: Index.html
+    - text: "Contenus"
+      href: Contenus.html
+    - text: "Evaluation"
+      href: Evaluation.html
+    - text: "Règles"
+      href: Regles.html
+    - text: "Technologie pour le cours"
+      href: Technologie.html
