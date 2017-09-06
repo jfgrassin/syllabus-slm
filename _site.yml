@@ -13,3 +13,10 @@ navbar:
       href: Regles.html
     - text: "Technologie pour le cours"
       href: Technologie.html
+ output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    theme: cosmo
+    highlight: tango
