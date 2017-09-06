@@ -4,7 +4,7 @@ navbar:
   title: "Syllabus C1"
   left:
     - text: "Aperçu"
-      href: Index.html
+      href: index.html
     - text: "Contenus"
       href: Contenus.html
     - text: "Evaluation"
