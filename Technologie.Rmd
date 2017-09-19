@@ -1,0 +1,15 @@
+---
+title: "Technologie pour le cours"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    theme: cosmo
+    highlight: tango
+---
+Technologie pour le cours :
+Le syllabus du cours se trouve sur ce site : https://jfgrassin/github.com/syllabus-slm
+
+Le contenu du cours se trouve sur la plateforme de l’université Lyon 2.
+
