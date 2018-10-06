@@ -1,0 +1,26 @@
+---
+title: "Evaluation"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    theme: cosmo
+    highlight: tango
+---
+Contrôle Continu (pas d’examen final)
+
+###Travaux clés:
+* Synthèse écrite de textes. Les textes seront imposés. (25%)
+* Prise de notes et résumé d’un extrait de conférence. (25%)
+* Dossier critique de lecture (5 pages). (25%)
+Le dossier sera un travail critique de lecture d'un essai dans la liste proosée en cours (voir moodle).
+* Exposé du travail de lecture (en binôme). (25%)
+La présentation combinera des éléments multimodaux (textes, sons, images…)
+
+###Autres travaux:
+* Participation aux cours.
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

@@ -1,0 +1,47 @@
+---
+title: "Syllabus SLM"
+subtitle: "Groupe C1 - 2018-2019"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    theme: cosmo
+    highlight: tango
+---
+###Aperçu du cours
+Enseignant : Jean-François Grassin
+[jean-francois.grassin@univ-lyon2.fr](mailto:jean-francois.grassin@univ-lyon2.fr)
+
+###Lieu et dates du cours
+Campus des Berges, salle ER44, le jeudi, 18 heures à 19 heures 45
+**_sauf les jeudis 27/09, 25/10, 14/11 et 22/11_**
+
+jeudi 20 septembre
+jeudi 04 octobre
+jeudi 11 octobre
+**_lundi 15 octobre_**
+jeudi 18 octobre
+**_lundi 05 novembre_**
+jeudi 08 novembre
+**_lundi 19 novembre_**
+jeudi 29 novembre
+jeudi 06 décembre
+jeudi 13 novembre
+jeudi 20 novembre
+
+###Description générale du cours
+Différentes tâches seront travaillées pendant le cours dont le but est d’améliorer la performance des étudiants en français, notamment dans les tâches académiques.
+
+###Compétences pragmatiques
+- Raconter des événements passés avec précision
+- Synthétiser des informations et des arguments issus de sources diverses
+- Développer une argumentation logique et cohérente, à l’oral et à l’écrit
+- Argumenter une prise de position et la défendre avec aisance et pertinence,
+- Mettre en valeur des arguments, les nuancer
+
+###Compétences socio-culturelles
+Connaitre et maitriser les registres de langue, les rituels du débat et de l’argumentation, le ton du discours, l’expression de l’humour…
+
+###Compétences linguistiques
+Les points de langue sont travaillés en remédiation et selon les performances de production des étudiants. Les modes et temps verbaux / Les expressions logiques / Le système hypothétique / Le gérondif, le participe présent et l’adjectif verbal / La concordance des temps dans le discours / Les régimes prépositionnels des verbes / La double pronominalisation / La mise en relief.
